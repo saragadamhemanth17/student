@@ -1,0 +1,5 @@
+{
+    "V1": "Original synthetic student dataset with 6 input features",
+    "V2": "Added Technical_Score as an engineered feature",
+    "Total_Records": 1000
+}
